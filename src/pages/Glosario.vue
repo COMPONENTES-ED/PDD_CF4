@@ -92,7 +92,7 @@ export default {
             'Programas que automatizan la ejecución de tareas específicas que normalmente se realizarían manualmente. En análisis de datos, permiten la reproducibilidad y escalabilidad de los procesos analíticos.',
         },
         {
-          termino: '<em>t-SNE</em>',
+          termino: 't-SNE',
           significado:
             'Técnica de reducción de dimensionalidad no lineal efectiva para la visualización de datos complejos. Preserva las relaciones locales entre puntos de datos, permitiendo la identificación de patrones y clusters.',
         },
@@ -151,7 +151,7 @@ export default {
           terminos = terminosOrdenados
         }
         newSortedData.push({
-          letra: letraObj.letra.toUpperCase(),
+          letra: letraObj.letra.toLowerCase(),
           terminos: terminos,
         })
       })
