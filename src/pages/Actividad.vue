@@ -18,7 +18,7 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre exploración, validación y
+              Prueba de conocimientos sobre Exploración, validación y
               visualización de datos para la toma de decisiones
             </h2>
           </div>
